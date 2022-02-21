@@ -1,0 +1,8 @@
+{
+	"default":{
+		"7zip-binaries": {
+			"baseline" : "21.07",
+			"port-version" : 1
+		}
+	}
+}

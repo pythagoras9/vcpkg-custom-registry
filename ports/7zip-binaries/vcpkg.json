@@ -1,0 +1,8 @@
+{
+  "name": "7zip",
+  "version-string": "21.07",
+  "port-version": 1,
+  "description": "Executables for archiving file with a high compression ratio.",
+  "homepage": "https://www.7-zip.org",
+  "supports": "!(linux | osx | arm | uwp)"
+}
