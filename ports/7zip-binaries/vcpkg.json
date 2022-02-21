@@ -1,5 +1,5 @@
 {
-  "name": "7zip",
+  "name": "7zip-binaries",
   "version-string": "21.07.0",
   "port-version": 1,
   "description": "Executables for archiving file with a high compression ratio.",
