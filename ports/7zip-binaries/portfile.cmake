@@ -6,3 +6,5 @@ vcpkg_from_github(
 )
 
 file(COPY "${SOURCE_PATH}/" DESTINATION ${CURRENT_PACKAGES_DIR}/tools/${PORT})
+
+set(VCPKG_POLICY_EMPTY_PACKAGE enabled)
